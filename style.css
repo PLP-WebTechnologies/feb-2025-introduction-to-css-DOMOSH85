@@ -1,0 +1,43 @@
+body {
+  background-color: #87CEEB; /* Skyblue */
+  font-family: 'Arial', sans-serif; /* Default font for body */
+  margin: 0;
+  padding: 0;
+}
+
+#about {
+  background-color: #E0F7FA; /* Light blue */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+  padding: 20px; /* Added padding for spacing */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.project {
+  background-color: #2A8FB1; /* Slightly adjusted for better contrast */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 200;
+  padding: 20px; /* Added padding */
+  border-radius: 8px; /* Rounded corners */
+  color: white; /* Ensures text stands out */
+}
+
+p {
+  font-size: 18px; /* Slightly smaller for readability */
+  font-weight: 300; /* Adjusted weight for better visual hierarchy */
+  color: #333; /* Darker color for contrast */
+  line-height: 1.6; /* Improved line spacing */
+}
+
+#menu {
+  display: flex; /* Fixed from flexbox to flex */
+  justify-content: space-between;
+  background-color: #19D448; /* Bright green */
+  align-items: center; /* Centered items vertically */
+  padding: 10px 20px; /* Added padding for spacing */
+  border-radius: 5px; /* Rounded corners */
+  border: 2px solid #131414; /* Slightly darker border */
+}
+
+
